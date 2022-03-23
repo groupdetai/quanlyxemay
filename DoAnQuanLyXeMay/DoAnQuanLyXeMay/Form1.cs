@@ -24,7 +24,7 @@ namespace DoAnQuanLyXeMay
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Alo alo");
+            MessageBox.Show(label1.Text);
         }
         //anh iu em
     }
