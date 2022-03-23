@@ -26,6 +26,6 @@ namespace DoAnQuanLyXeMay
         {
             MessageBox.Show(textBox1.Text);
         }
-        //anh iu em
+        
     }
 }
